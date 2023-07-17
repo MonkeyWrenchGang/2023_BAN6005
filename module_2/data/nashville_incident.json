@@ -1,0 +1,10 @@
+[{"incident_type_code":"71A","incident_type":"NON-RESIDENCE-BURGLARY ALARM","call_received":"2023-07-16T18:54:27.000","last_updated":"2023-07-16T18:57:01.000","address":"2235 TWO RIVERS PKWY","city":"TWO RIVERS"}
+,{"incident_type_code":"70A","incident_type":"RESIDENCE-BURGLARY ALARM","call_received":"2023-07-16T18:23:42.000","last_updated":"2023-07-16T18:57:01.000","address":"321 BURGANDY HILL TRL","city":"NIPPERS CORNER"}
+,{"incident_type_code":"70A","incident_type":"RESIDENCE-BURGLARY ALARM","call_received":"2023-07-16T17:25:19.000","last_updated":"2023-07-16T18:57:01.000","address":"3712 LAKERIDGE PASS","city":"DONELSON"}
+,{"incident_type_code":"70P","incident_type":"BURGLARY-RESIDENCE BREAK-IN","call_received":"2023-07-16T18:23:55.000","last_updated":"2023-07-16T18:57:01.000","address":"1730 16TH AVE N","city":"NORTH"}
+,{"incident_type_code":"71A","incident_type":"NON-RESIDENCE-BURGLARY ALARM","call_received":"2023-07-16T18:42:55.000","last_updated":"2023-07-16T18:57:01.000","address":"1100 COUNTY HOSPITAL RD","city":"BORDEAUX"}
+,{"incident_type_code":"71A","incident_type":"NON-RESIDENCE-BURGLARY ALARM","call_received":"2023-07-16T18:45:07.000","last_updated":"2023-07-16T18:57:01.000","address":"925 MYATT INDUSTRIAL DR","city":"MADISON"}
+,{"incident_type_code":"70A","incident_type":"RESIDENCE-BURGLARY ALARM","call_received":"2023-07-16T15:52:56.000","last_updated":"2023-07-16T18:57:01.000","address":"1648 BOXWOOD DR","city":"NIPPERS CORNER"}
+,{"incident_type_code":"52P","incident_type":"SHOOTING","call_received":"2023-07-16T15:43:27.000","last_updated":"2023-07-16T18:57:01.000","address":"2919 DICKERSON PIKE","city":"EAST"}
+,{"incident_type_code":"83P","incident_type":"SHOTS FIRED","call_received":"2023-07-16T16:57:47.000","last_updated":"2023-07-16T18:57:01.000","address":"5160 RICE RD","city":"ANTIOCH"}
+,{"incident_type_code":"70A","incident_type":"RESIDENCE-BURGLARY ALARM","call_received":"2023-07-16T18:54:17.000","last_updated":"2023-07-16T18:57:01.000","address":"733 JOSEPH AVE","city":"EAST"}]
